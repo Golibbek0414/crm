@@ -1,4 +1,4 @@
-         Features/Functionalities:
+        Features/Functionalities:
 1.  teachers & students (connected in groups)
 2.  Console for teachers (list of students, attendance, marks, homework)
 3.  Schedule
